@@ -1,3 +1,7 @@
+/**
+*五组项目:自己想学的武功!
+*项目策划人:代理组长:姚金红
+*/
 class GitTest
 {
 	public static void main (String[] args){
