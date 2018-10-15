@@ -14,5 +14,7 @@ class GitTest
 		system.out.println("姚老板真帅!");
 		System.out.println("蛤蟆神功!");
 		System.out.println("喊姚老板真帅的!报上名来,你语法都错了!");
+		System.out.println("姚老板眼睛真毒！")
+		System.out.println("你自己不会看是谁修改的吗？白眼儿~~~")
 	}
 }
