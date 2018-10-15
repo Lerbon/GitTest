@@ -5,6 +5,6 @@ class GitTest
 		System.out.println("狮吼功!");
 		System.out.println("降龙十八掌!");
 		System.out.println("--------------------------------");
-		System.out.println("九阴真经!");
+		System.out.println("六脉神剑!");
 	}
 }
