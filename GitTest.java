@@ -18,5 +18,7 @@ class GitTest
 		System.out.println("你自己不会看是谁修改的吗？白眼儿~~~")
 
 		System.out.println("悄悄改改·····")
+
+		System.out.println("改下姚老板的小秘密")
 	}
 }
