@@ -11,7 +11,8 @@ class GitTest
 		System.out.println("降龙十八掌!");
 		System.out.println("--------------------------------");
 		System.out.println("六脉神剑!");
-		system.out.println("姚老板真帅!");
+
+		System.out.println("姚老板真帅!");
 		System.out.println("蛤蟆神功!");
 	}
 }
