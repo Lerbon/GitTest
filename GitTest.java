@@ -1,3 +1,7 @@
+/**
+*五组项目:自己想学的武功!
+*项目策划人:代理组长:姚金红
+*/
 class GitTest
 {
 	public static void main (String[] args){
@@ -7,5 +11,6 @@ class GitTest
 		System.out.println("--------------------------------");
 		System.out.println("六脉神剑!");
 		system.out.println("姚老板真帅!");
+		System.out.println("蛤蟆神功!");
 	}
 }
