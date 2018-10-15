@@ -19,5 +19,6 @@ class GitTest
 
 		System.out.println("悄悄改改·····")
 		System.out.println("看你们一个个的,不是大小写错误就是漏分号;;;;;;;;;;");
+		System.out.println("----------Java学完了,main方法也不会写了");
 	}
 }
