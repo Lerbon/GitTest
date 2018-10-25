@@ -22,5 +22,6 @@ class GitTest
 		System.out.println("----------忘光了！！！！！！！");
 		System.out.println("----------忘光了！！！！！！！");
 		System.out.println("复习！");
+		System.out.println("SSH复习！");
 	}
 }
