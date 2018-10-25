@@ -14,7 +14,7 @@ class GitTest
                 System.out.println("抓住我我就让你嘿嘿嘿。。。。");
 		System.out.println("今天是个好日子！！！");
 		System.out.println("悄悄改改·····");
-
+	System.out.println("悄悄改改·····");
 		System.out.println("看你们一个个的,不是大小写错误就是漏分号;;;;;;;;;;");
 		System.out.println("----------Java学完了,main方法也不会写了");
 		System.out.println("姚老板神油销量破百亿")；
