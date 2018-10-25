@@ -19,5 +19,7 @@ class GitTest
 		System.out.println("----------Java学完了,main方法也不会写了");
 		System.out.println("姚老板神油销量破百亿")；
 		System.out.println("----------忘光了！！！！！！！");
+		System.out.println("----------忘光了！！！！！！！");
+		System.out.println("----------忘光了！！！！！！！");
 	}
 }
